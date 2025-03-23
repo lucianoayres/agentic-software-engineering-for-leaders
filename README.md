@@ -2,7 +2,7 @@
 
 ![Book Cover](./images/book-cover.png)
 
-**Agentic Software Engineering for Leaders**  
+**[Agentic Software Engineering for Leaders](./Agentic_Software_Engineering_for_Leaders.md)**  
 _A Handbook of Best Practices for Autonomous IDE Integration_
 
 By **[Luciano Ayres](https://www.linkedin.com/in/lucianoayres), Software Engineering Leader**
