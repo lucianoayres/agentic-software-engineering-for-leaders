@@ -2,7 +2,7 @@
 
 ![Book Cover](./images/agentic_software_engineering_for_leaders_book_cover.png)
 
-**[Agentic Software Engineering for Leaders](./Agentic_Software_Engineering_for_Leaders.md)**  
+**[Agentic Software Engineering for Leaders](./Agentic_Software_Engineering_for_Leaders_Handbook.md)**  
 _AI-Powered IDE Coding Agents for Organizations: A Handbook of Best Practices_
 
 By **[Luciano Ayres](https://www.linkedin.com/in/lucianoayres)**
@@ -44,25 +44,25 @@ Or choose the Epub version:
 
 ## Table of Contents 📝
 
-1. [Introduction](./Agentic_Software_Engineering_for_Leaders.md#introduction)
-2. [Agentic Software Engineering](./Agentic_Software_Engineering_for_Leaders.md#agentic-software-engineering)
-   - [What Is Agentic Software Engineering?](./Agentic_Software_Engineering_for_Leaders.md#what-is-agentic-software-engineering)
-   - [Why Is Agentic Software Engineering Relevant Today?](./Agentic_Software_Engineering_for_Leaders.md#why-is-agentic-software-engineering-relevant-today)
-3. [AI Is Transforming Software Development Workflows](./Agentic_Software_Engineering_for_Leaders.md#ai-is-transforming-software-development-workflows)
-4. [Next-Generation AI Tools: From Autocomplete to Autonomous Agents](./Agentic_Software_Engineering_for_Leaders.md#next-generation-ai-tools-from-autocomplete-to-autonomous-agents)
-   - [The Autonomous AI Pair Programmer](./Agentic_Software_Engineering_for_Leaders.md#the-autonomous-ai-pair-programmer)
-   - [Deep Context Awareness](./Agentic_Software_Engineering_for_Leaders.md#deep-context-awareness)
-   - [Agentic Assistance & Developer Flow](./Agentic_Software_Engineering_for_Leaders.md#agentic-assistance--developer-flow)
-5. [Introducing AI Tools to Your Team: Strategy and Change Management](./Agentic_Software_Engineering_for_Leaders.md#introducing-ai-tools-to-your-team-strategy-and-change-management)
-   - [Prepare the Ground with Education and Buy-In](./Agentic_Software_Engineering_for_Leaders.md#prepare-the-ground-with-education-and-buy-in)
-   - [Onboarding and Adoption Tips](./Agentic_Software_Engineering_for_Leaders.md#onboarding-and-adoption-tips)
-   - [Measuring the Impact of AI Adoption](./Agentic_Software_Engineering_for_Leaders.md#measuring-the-impact-of-ai-adoption)
-6. [Fostering a Culture of AI Literacy and Experimentation](./Agentic_Software_Engineering_for_Leaders.md#fostering-a-culture-of-ai-literacy-and-experimentation)
-7. [Balancing Automation with Human Judgment](./Agentic_Software_Engineering_for_Leaders.md#balancing-automation-with-human-judgment)
-8. [Leading by Example: How Managers and CTOs Can Leverage AI](./Agentic_Software_Engineering_for_Leaders.md#leading-by-example-how-managers-and-ctos-can-leverage-ai)
-9. [Conclusion](./Agentic_Software_Engineering_for_Leaders.md#conclusion)
-10. [About the Author](./Agentic_Software_Engineering_for_Leaders.md#about-the-author)
-11. [References](./Agentic_Software_Engineering_for_Leaders.md#references)
+1. [Introduction](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#introduction)
+2. [Agentic Software Engineering](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#agentic-software-engineering)
+   - [What Is Agentic Software Engineering?](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#what-is-agentic-software-engineering)
+   - [Why Is Agentic Software Engineering Relevant Today?](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#why-is-agentic-software-engineering-relevant-today)
+3. [AI Is Transforming Software Development Workflows](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#ai-is-transforming-software-development-workflows)
+4. [Next-Generation AI Tools: From Autocomplete to Autonomous Agents](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#next-generation-ai-tools-from-autocomplete-to-autonomous-agents)
+   - [The Autonomous AI Pair Programmer](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#the-autonomous-ai-pair-programmer)
+   - [Deep Context Awareness](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#deep-context-awareness)
+   - [Agentic Assistance & Developer Flow](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#agentic-assistance--developer-flow)
+5. [Introducing AI Tools to Your Team: Strategy and Change Management](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#introducing-ai-tools-to-your-team-strategy-and-change-management)
+   - [Prepare the Ground with Education and Buy-In](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#prepare-the-ground-with-education-and-buy-in)
+   - [Onboarding and Adoption Tips](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#onboarding-and-adoption-tips)
+   - [Measuring the Impact of AI Adoption](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#measuring-the-impact-of-ai-adoption)
+6. [Fostering a Culture of AI Literacy and Experimentation](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#fostering-a-culture-of-ai-literacy-and-experimentation)
+7. [Balancing Automation with Human Judgment](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#balancing-automation-with-human-judgment)
+8. [Leading by Example: How Managers and CTOs Can Leverage AI](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#leading-by-example-how-managers-and-ctos-can-leverage-ai)
+9. [Conclusion](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#conclusion)
+10. [About the Author](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#about-the-author)
+11. [References](./_Agentic_Software_Engineering_for_Leaders_Handbook.md#references)
 
 ---
 
