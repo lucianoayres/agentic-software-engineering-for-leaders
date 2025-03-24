@@ -1,6 +1,6 @@
-# Agentic Software Engineering for Leaders 📘
+# Agentic Software Engineering for Leaders Handbook
 
-![Book Cover](./images/book-cover.png)
+![Book Cover](./images/agentic_software_engineering_for_leaders_book_cover.png)
 
 **[Agentic Software Engineering for Leaders](./Agentic_Software_Engineering_for_Leaders.md)**  
 _AI-Powered IDE Coding Agents for Organizations: A Handbook of Best Practices_
@@ -28,13 +28,17 @@ This guide walks you through:
 
 ## How to Read the Book 📚
 
-You can read the full book for free by clicking on the link below:
+Access the complete book for free by clicking the link below:
 
 [Read the Book (Markdown)](./Agentic_Software_Engineering_for_Leaders.md)
 
-Prefer a PDF version? You can download it here:
+Prefer a PDF version? Download it here:
 
-[Download the PDF](./pdf/agentic-software-engineering-for-leaders.pdf)
+[Download PDF](./pdf/Agentic_Software_Engineering_for_Leaders_Handbook_by_Luciano_Ayres.pdf)
+
+Or choose the Epub version:
+
+[Download Epub](./epub/Agentic_Software_Engineering_for_Leaders_Handbook_by_Luciano_Ayres.epub)
 
 ---
 
