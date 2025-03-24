@@ -2,7 +2,7 @@
 
 ## AI-Powered IDE Coding Agents for Organizations: A Handbook of Best Practices
 
-### By Luciano Ayres, Software Engineering Leader
+### By Luciano Ayres
 
 ###### First Edition | Published March 23, 2025
 

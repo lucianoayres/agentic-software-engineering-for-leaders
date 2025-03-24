@@ -5,7 +5,7 @@
 **[Agentic Software Engineering for Leaders](./Agentic_Software_Engineering_for_Leaders.md)**  
 _AI-Powered IDE Coding Agents for Organizations: A Handbook of Best Practices_
 
-By **[Luciano Ayres](https://www.linkedin.com/in/lucianoayres), Software Engineering Leader**
+By **[Luciano Ayres](https://www.linkedin.com/in/lucianoayres)**
 
 **First Edition | Published March 23, 2025**  
 **Version 1.0**
