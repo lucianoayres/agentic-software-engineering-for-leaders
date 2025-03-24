@@ -30,7 +30,7 @@ This guide walks you through:
 
 Access the complete book for free by clicking the link below:
 
-[Read the Book (Markdown)](./Agentic_Software_Engineering_for_Leaders.md)
+[Read the Book (Markdown)](./Agentic_Software_Engineering_for_Leaders_Handbook.md)
 
 Prefer a PDF version? Download it here:
 
