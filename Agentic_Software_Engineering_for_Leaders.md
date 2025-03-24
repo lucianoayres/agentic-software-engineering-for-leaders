@@ -1,6 +1,6 @@
 # Agentic Software Engineering for Leaders
 
-## A Handbook of Best Practices for Autonomous IDE Integration
+## AI-Powered IDE Coding Agents for Organizations: A Handbook of Best Practices
 
 ### By Luciano Ayres, Software Engineering Leader
 
